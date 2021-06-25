@@ -1,8 +1,11 @@
 
 
 
-.card-title{
+
+.error{
     text-align: center;
-    font-size: 2em;
+}
+
+.error p{
     font-weight: 900;
 }
