@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/franco954/Api-Clima/static/css/main.8e718909.chunk.css",
+    "main.js": "/franco954/Api-Clima/static/js/main.63df0a9a.chunk.js",
+    "main.js.map": "/franco954/Api-Clima/static/js/main.63df0a9a.chunk.js.map",
+    "runtime-main.js": "/franco954/Api-Clima/static/js/runtime-main.c80bad35.js",
+    "runtime-main.js.map": "/franco954/Api-Clima/static/js/runtime-main.c80bad35.js.map",
+    "static/css/2.39f60a11.chunk.css": "/franco954/Api-Clima/static/css/2.39f60a11.chunk.css",
+    "static/js/2.c873cb52.chunk.js": "/franco954/Api-Clima/static/js/2.c873cb52.chunk.js",
+    "static/js/2.c873cb52.chunk.js.map": "/franco954/Api-Clima/static/js/2.c873cb52.chunk.js.map",
+    "index.html": "/franco954/Api-Clima/index.html",
+    "static/css/2.39f60a11.chunk.css.map": "/franco954/Api-Clima/static/css/2.39f60a11.chunk.css.map",
+    "static/css/main.8e718909.chunk.css.map": "/franco954/Api-Clima/static/css/main.8e718909.chunk.css.map",
+    "static/js/2.c873cb52.chunk.js.LICENSE.txt": "/franco954/Api-Clima/static/js/2.c873cb52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c80bad35.js",
+    "static/css/2.39f60a11.chunk.css",
+    "static/js/2.c873cb52.chunk.js",
+    "static/css/main.8e718909.chunk.css",
+    "static/js/main.63df0a9a.chunk.js"
+  ]
+}
