@@ -1,7 +1,6 @@
 {
   "name": "api-clima",
-  "homepage": "https://github.com/franco954/Api-Clima",
-  "predeploy": "npm run build && echo github.com/franco954/Api-Clima > ./build/CNAME",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
